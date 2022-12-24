@@ -37,3 +37,5 @@
 (www.google.com) - ссылка на url.
 (avdeevart@bk.ru) - ссылка на почтовый ящик.
 [ссылка через ID](www.google.com) на Google
+
+![Alt text](2023-500-4.jpg_640x640.jpg)Картиночка моего MSSD
